@@ -1,5 +1,5 @@
 # Alexaビジネスセミナー まとめ
-
+![ロゴ](image/alexa_logo.png) ![ロゴ](image/echo_logo.png)
 ## ゲストトークメモ
 ゲスト: 横田聡氏（クラスメソッド株式会社）  
 テーマ: EchoやAlexaもろもろ
@@ -14,10 +14,13 @@
 ### 対応機器
 通常のEchoスピーカー以外にもDash Wand、Cloud Camなどいろいろ  
 Echo以外にもサードパーティ製機器がある
+![対応機器](image/echo_v.png)
 
 ### 自社開発
 Alexa対応機器の開発が可能  
 ラズパイとかでもいける
+![他社機器利用１](image/third_p_1.jpg)
+![他社機器利用２](image/third_p_2.png)
 
 ### 利用例
 `事例1` スタバでの利用  
@@ -68,8 +71,10 @@ UXで言う利用文脈のこと
 
 
 ## AlexaとEchoの概要
+![フロー](image/alexa_skill_flow.png)
 ### Echo
 プラットフォームはAWS
+![ロゴ](image/あws_logo.png)
 
 ### Alexa
 クラウドベースの音声サービス
@@ -90,6 +95,7 @@ UXで言う利用文脈のこと
 + スキル向上
 + トレンドに乗っかる
 + etc.
+![サードパーティ](image/alexa_skill_third_p.jpg)
 
 ### 開発のためのツール
 + ASK
