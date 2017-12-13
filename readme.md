@@ -1,6 +1,9 @@
-# <span style="color:red">Alexaビジネスセミナー まとめ</span>
+<link href="css/md.css" rel="stylesheet"></link>
+
+# Alexaビジネスセミナー まとめ
 ![ロゴ](image/alexa_logo.png)  
-![ロゴ](image/echo_logo.png)
+![ロゴ](image/echo_logo.png)  
+  
 ## ゲストトークメモ
 ゲスト: 横田聡氏(クラスメソッド株式会社)  
 テーマ: EchoやAlexaもろもろ
